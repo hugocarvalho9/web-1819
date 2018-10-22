@@ -1,0 +1,15 @@
+{
+  "name": "tpc5_a74219",
+  "version": "1.0.0",
+  "description": "Des. App. Web - TPC5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.3",
+    "url": "^0.11.0"
+  }
+}
