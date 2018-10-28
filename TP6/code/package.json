@@ -1,0 +1,16 @@
+{
+  "name": "tpc6_a74219",
+  "version": "1.0.0",
+  "description": "Desenvolvimento Aplicações Web - TPC6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "pug": "^2.0.3",
+    "querystring": "^0.2.0"
+  }
+}
