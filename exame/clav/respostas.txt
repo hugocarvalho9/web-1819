@@ -1,0 +1,13 @@
+1) 
+- 25 processos. O resultado está no ficheiro "pergunta1.json"
+
+2) 
+- 116 processos.
+
+3)
+- 12
+
+4)
+- 17
+
+

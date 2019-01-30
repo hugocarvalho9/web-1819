@@ -1,0 +1,127 @@
+﻿[
+  {
+    "codigo": "500.10.002",
+    "titulo": "Fiscalização prévia do Tribunal de Contas",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.002"
+  },
+  {
+    "codigo": "500.10.301",
+    "titulo": "Realização de fiscalização",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.301"
+  },
+  {
+    "codigo": "500.10.302",
+    "titulo": "Realização de visitas técnicas",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.302"
+  },
+  {
+    "codigo": "500.10.303",
+    "titulo": "Controlo metrológico de instrumentos de medição",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.303"
+  },
+  {
+    "codigo": "500.10.304",
+    "titulo": "Controlo oficial por colheita de amostra",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.304"
+  },
+  {
+    "codigo": "500.10.600",
+    "titulo": "Monitorização sistemática da conformidade",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.600"
+  },
+  {
+    "codigo": "500.10.001",
+    "titulo": "Realização de auditorias",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.001"
+  },
+  {
+    "codigo": "500.10.300",
+    "titulo": "Realização de inspeção",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.10.300"
+  },
+  {
+    "codigo": "500.20.001",
+    "titulo": "Realização de averiguações",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.001"
+  },
+  {
+    "codigo": "500.20.002",
+    "titulo": "Realização de inquérito",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.002"
+  },
+  {
+    "codigo": "500.20.003",
+    "titulo": "Realização de sindicância",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.003"
+  },
+  {
+    "codigo": "500.20.300",
+    "titulo": "Procedimento disciplinar",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.300"
+  },
+  {
+    "codigo": "500.20.600",
+    "titulo": "Reabilitação de infratores",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.600"
+  },
+  {
+    "codigo": "500.20.004",
+    "titulo": "Realização de investigação técnica a acidentes e incidentes",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.20.004"
+  },
+  {
+    "codigo": "500.30.001",
+    "titulo": "Processamento de contraordenações",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.001"
+  },
+  {
+    "codigo": "500.30.002",
+    "titulo": "Aplicação de sanções administrativas inominadas",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.002"
+  },
+  {
+    "codigo": "500.30.003",
+    "titulo": "Aplicação de sanções contratuais",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.003"
+  },
+  {
+    "codigo": "500.30.004",
+    "titulo": "Aplicação de sanções disciplinares",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.004"
+  },
+  {
+    "codigo": "500.30.005",
+    "titulo": "Abandono voluntário do território nacional",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.005"
+  },
+  {
+    "codigo": "500.30.006",
+    "titulo": "Afastamento coercivo do território nacional",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.006"
+  },
+  {
+    "codigo": "500.30.007",
+    "titulo": "Condução à fronteira",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.007"
+  },
+  {
+    "codigo": "500.30.500",
+    "titulo": "Aplicação de medidas administrativas cautelares",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.30.500"
+  },
+  {
+    "codigo": "500.40.001",
+    "titulo": "Processamento de reclamações de atos administrativos",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.40.001"
+  },
+  {
+    "codigo": "500.40.500",
+    "titulo": "Processamento de recursos hierárquicos",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.40.500"
+  },
+  {
+    "codigo": "500.40.501",
+    "titulo": "Processamento de recursos administrativos especiais",
+    "id": "http://jcr.di.uminho.pt/m51-clav#c500.40.501"
+  }
+]

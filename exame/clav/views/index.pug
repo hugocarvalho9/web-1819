@@ -1,0 +1,16 @@
+extends layout
+
+block content
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-teal
+                h3 CLAV: Classificação e Avaliação da Informação Pública
+            .w3-container
+                h4 Classes
+                table.w3-table-all
+                    each classe in lista
+                        tr
+                            td
+                                a(href='/classe/' + classe.codigo)= classe.codigo
+                            td(id=classe.id)= classe.titulo
+            footer.w3-container.w3-teal

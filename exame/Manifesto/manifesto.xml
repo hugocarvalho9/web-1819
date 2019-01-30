@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+    <meta>
+        <identificador>Desenvolvimento Aplicações Web</identificador>
+        <titulo>Avaliação: Desenvolvimento de Aplicações Web</titulo>
+        <subtitulo></subtitulo>
+        <dinicio>30 de Janeiro de 2018</dinicio>
+        <dfim>30 de Janeiro de 2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www4.di.uminho.pt/~jcr/</website>
+        </supervisor>
+    </meta>
+    <equipa>
+        <membro>
+            <nome>Hugo Alves Carvalho</nome>
+            <email>a74219@alunos.uminho.pt</email>
+            <identificador>1</identificador>
+            <website>https://github.com/hugocarvalho9</website>
+            <foto path="./HugoCarvalho.png"/>
+        </membro>
+    </equipa>
+    <resumo>
+        <para>
+            <b>Exercício nº 1: Prémio Nobel</b> : Foi utilizado o dataset em formato JSON, sendo carregado para uma base de dados MongoDB através do comando : mongoimport --db premios --collection premios --type json --file prize.json --jsonArray. Para executar o programa, deve configurar uma base de dados com o nome "premios" e com um coleção "premios".
+        </para>
+        <para>
+            <b>Exercício nº 2:  CLAV: Classificação e Avaliação da Informação Pública</b> : As respostas às perguntas estão dentro de um ficheiro chamado "respostas.txt" dentro da pasta clav. O resultado da pergunta nº1 corresponde ao ficheiro "pergunta1.json"         
+        </para>
+    </resumo>
+    <resultados>
+        <resultado url="https://github.com/hugocarvalho9/web-1819/exame">Repositório GitHub</resultado>
+    </resultados>
+</manifesto>
